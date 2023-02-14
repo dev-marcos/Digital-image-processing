@@ -26,21 +26,28 @@ O processamento digital de imagens é o uso de um computador digital para proces
 </div>
 
 
+
+
+### [Base de dados de frutas](https://github.com/dev-marcos/Digital-image-processing/tree/main/ft-DB)
+### [Atividades Práticas Supervisionadas](https://github.com/dev-marcos/Digital-image-processing/tree/main/APS)
+
+
+
 ## Atividades Resolvidas
 
-  <a href="#" target="_blank">
+  <a href="https://github.com/dev-marcos/Digital-image-processing/blob/main/1%20-%20py_training01.ipynb" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20"/>
       Exercícios Python <br>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/dev-marcos/Digital-image-processing/blob/main/2%20-%20NumPy01.ipynb" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20"/>
       Exercícios NumPy Básico <br>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/dev-marcos/Digital-image-processing/blob/main/3%20-%20DIP_task01.ipynb" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20"/>
       Exercícios NumPy e Scikit-image <br>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/dev-marcos/Digital-image-processing/blob/main/4%20-%20DIP_task02.ipynb" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" height="20"/>
       Exercícios Transformações Domínio Espacial <br>
   </a>
