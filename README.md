@@ -27,7 +27,6 @@ O processamento digital de imagens é o uso de um computador digital para proces
 
 
 
-
 ### [Base de dados de frutas](https://github.com/dev-marcos/Digital-image-processing/tree/main/ft-DB)
 ### [Atividades Práticas Supervisionadas](https://github.com/dev-marcos/Digital-image-processing/tree/main/APS)
 
